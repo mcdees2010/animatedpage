@@ -17,6 +17,18 @@ body{
     width: 100%;
 }
 
+.pulse{
+    width: 100px;
+    height: 100px;
+    background: #ff6d4a;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    line-height: 100px;
+
+}
+
 .container span{
     text-transform: uppercase;
     display: block;
